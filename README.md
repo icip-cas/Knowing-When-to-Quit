@@ -13,6 +13,8 @@ CaRL-8B: https://huggingface.co/xinyan233333/CaRL-8B
 
 CaRL-14B: https://huggingface.co/xinyan233333/CaRL-14B 
 
+VERL framework is based on commit  c0a740c7
+
 ---
 
 ## Repository Structure
